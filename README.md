@@ -5,12 +5,12 @@ My work, which is shown here as a portfolio
 ### Space
 ![Space](https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Space.png)  
 A game that was made for a college term paper (I passed with a 95).  
-Link to repository: https://github.com/DDoubleMaster/Space
+Link to repository: https://github.com/DDoubleMaster/Space (Stars will not be visible because Skybox is too heavy for Github)
 
 ### Blocks Space
 ![Puzzle](https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Blocks%20Space.png)  
 Puzzle game.  
-Link to repository: https://github.com/DDoubleMaster/Blocks-Space
+Link to repository: https://github.com/DDoubleMaster/Blocks-Space (Stars will not be visible because Skybox is too heavy for Github)
 
 ### Chess
 ![Chess](https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Chess.png)  
