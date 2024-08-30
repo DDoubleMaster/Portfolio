@@ -21,7 +21,7 @@ Link to repository: https://github.com/DDoubleMaster/Chess
 ### Chess
 ![Chess](https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Chess%20piece.png)
 I maked chess figure for the Chess game.  
-Link: https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Models/%D1%88%D0%B0%D1%85%D0%BC%D0%B0%D1%82%D0%BD%D1%8B%D0%B5%20%D1%84%D0%B8%D0%B3%D1%83%D1%80%D1%8B.blend
+Link: https://github.com/DDoubleMaster/Portfolio/tree/main/Assets/Models/Chess%20(copy%20folder)
 
 ### People
 ![People](https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/People.png)
