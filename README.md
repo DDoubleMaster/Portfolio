@@ -38,7 +38,9 @@ Link: https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Models/samurai
 Sofa, just sofa.  
 Link: https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Models/Sofa.blend
 
-## Krita
+## Krita (with AI)
+/* DESCRIPTION: I cant draw, but I can use an AI plugin */
+
 ![Steppe](https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Krita%20AI.png)
 ### Steppe with forest and mountains.  
 Link: https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Krita%20AI.png
