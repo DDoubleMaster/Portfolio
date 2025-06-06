@@ -1,12 +1,6 @@
 # Portfolio
 My works, that shows here as portfolio
 
-## Unity
-### Space
-![Space](https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Space.png)  
-Game, that was make for coursework in college.  
-Link to repository: https://github.com/DDoubleMaster/Space (Stars will not be visible because Skybox is too heavy for Github)
-
 ### Blocks Space
 ![Puzzle](https://github.com/DDoubleMaster/Portfolio/blob/main/Assets/Blocks%20Space.png)  
 Puzzle game.  
